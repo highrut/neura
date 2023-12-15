@@ -54,15 +54,15 @@ The evaluation will assess the following aspects:
 
 ## Results
 
-Object Isolation:
+### Object Isolation
 
 ![mask](assets/vis_1700580448.534827.png)
 
-Object Orientation:
+### Object Orientation
 
 ![mask](assets/rotation.png)
 
-6D Pose Estimation:
+### 6D Pose Estimation
 
 ![demo](assets/demo.gif)
 
