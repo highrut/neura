@@ -64,6 +64,8 @@ The evaluation will assess the following aspects:
 
 ### 6D Pose Estimation
 
+If GIF is not displayed, please check [demo](assets/demo.gif).
+
 ![demo](assets/demo.gif)
 
 
