@@ -50,3 +50,17 @@ The evaluation will assess the following aspects:
     - Coding style.
 
 > Note: Please don't hesitate to submit your code by the deadline, even if it solves part of the tasks and not all of them.
+
+
+## Results
+
+![mask](assets/vis_1700580448.534827.png)
+
+![demo](assets/demo.gif)
+
+To reproduce the results, install the dependencies via:
+```
+conda env create -f pose-corrector.yml
+conda activate pose-corrector
+```
+and run the [notebook](pose-corrector.ipynb).
